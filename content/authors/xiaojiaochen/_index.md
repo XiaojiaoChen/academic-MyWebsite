@@ -1,7 +1,6 @@
 ---
 # Display name
-name: Xiaojiao Chen
-陈晓蛟
+name: Xiaojiao Chen<br />陈晓蛟
 
 # Username (this should match the folder name)
 authors:
