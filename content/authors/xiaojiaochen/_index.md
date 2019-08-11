@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Xiaojiao Chen
+name: Xiaojiao Chen (陈晓蛟)
 
 # Username (this should match the folder name)
 authors:
-- admin
+- xiaojiaochen
 
 # Is this the primary user of the site?
 superuser: true
