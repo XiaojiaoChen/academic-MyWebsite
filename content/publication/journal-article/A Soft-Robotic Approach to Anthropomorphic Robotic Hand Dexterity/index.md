@@ -23,10 +23,9 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Access"
-publication_short: ""
+publication_short: "IEEE Access"
 
 abstract: Soft robotics is quickly emerging in anthropomorphic robotic hand design, with innovative soft robot hands reported to achieve a remarkably large subset of human hand dexterity, despite their substantially lower mechanistic sophistication compared to conventional rigid or underactuated robotic hands. More interestingly, soft robot hands were most successful in reproducing object grasping, rather than in-hand manipulation tasks. Inspired by this notable advance, this paper investigated the soft robotic approach, on the influence of passive compliance to functional dexterity, offering insights to their efficacy and addressing the remaining gaps to fully replicating human hand dexterous motions. A novel soft robotic hand, BCL-26, with 26 independent degrees of freedom was then proposed, replicating the human hand model. The BCL-26 hand achieved full scores in different aspects of functional dexterity measures, on GRASP taxonomy, thumb dexterity, and in-hand manipulation. Completed with proprietary actuation and control, the overall BCL-26 hand system facilitated further investigations from the influence of passive compliance achieving in-hand manipulation/writing, to fully independent control of all finger joints, and to metacarpal extension enabled by the soft robotic approach. The BCL-26 hand, as a new soft-robotic addition to mechanistically exact human hand replicas, had demonstrated the promising potentials of soft robotics, it also enabled investigating the dexterities of robotic and human hand.
-INDEX
 
 # Summary. An optional shortened abstract.
 summary: A novel soft robotic hand, BCL-26, with 26 independent degrees of freedom is proposed, replicating the human hand model.
@@ -45,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
