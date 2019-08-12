@@ -2,7 +2,7 @@
 title: "Customizable Three-Dimensional-Printed Origami Soft Robotic Joint With Effective Behavior Shaping for Safe Interactions"
 authors:
 - Juan Yi
-- Xiaojiao Chen
+- Xiaojiao Chen(Co-first author)
 - Chaoyang Song
 - Jianshu Zhou
 - Yujia Liu
@@ -21,7 +21,7 @@ publishDate: "2019-02-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Robotics, 1*(1)"
+publication: "*IEEE Transactions on Robotics"
 publication_short: "TRO"
 
 abstract: Fast-growing interests in safe and effective robot–environment interactions stimulated global investigations on soft robotics. The inherent compliance of soft robots ensures promising safety features but drastically reduces force capability, thereby complicating system modeling and control. To tackle these limitations, a soft robotic joint with enhanced strength, servo performance, and impact behavior shaping is proposed in this paper, based on novel three-dimensional-printed soft origami rotary actuators. The complete workflow is presented from the concept of origami design and analytical modeling, joint design, fabrication, control, and validation experiments. The proposed approach facilitates a fully customizable joint design towards the desired force capability and motion range. Validation results from models and experiments using multiple fabricated prototypes proved the excellent performance linearity and superior force capability, with 18.5N·m maximum torque under 180 kPa, and 300g self-weight. The behavior shaping capability is achieved by a low-level joint-angle servo and a high-level variable-stiffness regulation; this significantly reduces the impact torque by53%and ensures powerful and safe interactions. The comprehensive guidelines provide insightful references for soft robotic design for wider robotic applications.
