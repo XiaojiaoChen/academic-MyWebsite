@@ -18,12 +18,12 @@ organizations:
   url: "https://www.hku.hk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include design, modeling and control of soft pneuamtic robotics.
+bio: My research interests include design, modeling and control of various soft pneuamtic robotics.
 
 interests:
-- soft actuators
-- soft manipulators
-- pneumatic control
+- Soft Actuators
+- Soft Manipulators
+- Pneumatic Control
 
 education:
   courses:
@@ -68,4 +68,4 @@ user_groups:
 #- Visitors
 ---
 
-I am a PhD student of Mechanical Engineering at the Bionics & Control Lab in the University of Hong Kong. My research interests include design, modeling and control of soft pneuamtic robotics.
+I am currently a PhD student of Mechanical Engineering at the Bionics & Control Lab in the University of Hong Kong. My research interests include design, modeling and control of soft pneuamtic robotics.
