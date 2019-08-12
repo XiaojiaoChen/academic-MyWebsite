@@ -66,5 +66,5 @@ subtitle = ""
  css_class = ""
 +++
 
-[Lists]({{< ref "/publication/_index.md" >}}).
+[List View]({{< ref "/publication/_index.md" >}}).
 
