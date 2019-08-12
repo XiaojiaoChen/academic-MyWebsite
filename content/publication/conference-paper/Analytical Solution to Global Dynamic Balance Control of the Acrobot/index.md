@@ -6,7 +6,7 @@ authors:
 - Chaoyang Song
 - Zheng Wang
 date: "2018-08-01T00:00:00Z"
-doi: "10.1109/RCAR.2018.8621827"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-08-01T00:00:00Z"
@@ -31,7 +31,7 @@ tags:
 featured: true
 
 links:
-- name: IEEE
+- name: RCAR
   url: https://ieeexplore.ieee.org/document/8621827/
 url_pdf: publicationSrc/Analytical Solution to Global Dynamic Balance Control of the Acrobot.pdf
 url_project: ''
@@ -41,7 +41,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 

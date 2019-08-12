@@ -8,7 +8,7 @@ authors:
 - Michael Yu Wang
 - Zheng Wang
 date: "2017-05-01T00:00:00Z"
-doi: "10.1109/ICRA.2017.7989220"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-05-01T00:00:00Z"
@@ -35,7 +35,7 @@ featured: true
 links:
 - name: ICRA
   url: http://ieeexplore.ieee.org/document/7989220/
-url_pdf: publicationSrc/Aroboticmanipulatordesignwithnovelsoftactuators.pdf
+url_pdf: publicationSrc/A Robotic Manipulator Design With Novel Soft Actuators.pdf
 url_project: ''
 url_slides: ''
 url_video: '#'
