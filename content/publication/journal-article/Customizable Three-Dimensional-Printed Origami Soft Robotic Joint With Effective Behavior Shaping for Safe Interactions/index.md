@@ -1,8 +1,8 @@
 ---
 title: "Customizable Three-Dimensional-Printed Origami Soft Robotic Joint With Effective Behavior Shaping for Safe Interactions"
 authors:
-- Juan Yi
-- Xiaojiao Chen(Co-first author)
+- Juan Yi*
+- Xiaojiao Chen*
 - Chaoyang Song
 - Jianshu Zhou
 - Yujia Liu

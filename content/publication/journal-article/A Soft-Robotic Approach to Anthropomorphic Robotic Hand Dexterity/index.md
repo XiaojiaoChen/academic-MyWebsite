@@ -1,8 +1,8 @@
 ---
 title: "A Soft-Robotic Approach to Anthropomorphic Robotic Hand Dexterity"
 authors:
-- Jianshu Zhou [^1] 
-- Xiaojiao Chen [^1]
+- Jianshu Zhou*
+- Xiaojiao Chen*
 - Ukyoung Chang
 - Jui-Ting Lu
 - Clarisse Ching Yau Leung
