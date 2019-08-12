@@ -7,11 +7,11 @@ authors:
 - Yonghua Chen
 - Michael Yu Wang
 - Zheng Wang
-date: "May 2017"
+date: "2017-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "May 2017"
+publishDate: "2017-05-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
