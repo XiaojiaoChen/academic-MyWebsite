@@ -1,8 +1,8 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Soft Manipulator
+summary: Safe soft manipulators for human-robot interaction.
 tags:
-- Demo
+- Soft Manipulator
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
