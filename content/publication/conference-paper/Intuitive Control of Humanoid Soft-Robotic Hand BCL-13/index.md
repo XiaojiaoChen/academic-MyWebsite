@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2018 IEEE-RAS 18th International Conference on Humanoid Robots*
-publication_short: In *Humanoids*
+publication_short: In *Humanoids2018*
 
 abstract: Traditionally, robotic hand grasping is realized by rigid robotic hands or grippers, which requires high-resolution sensor feedback and delicate control algorithm. Recently, soft robotics has emerged as an alternative approach to humanoid robotic hand design. But due to distinctive material, structure, actuation mechanism, limited degrees-of-freedom (DOF) of soft robots, their control raised new challenges. Most existing soft robot control strategies are based on the simple on/off signal, rather than intuitive, real-time control for dexterous grasping and manipulation tasks. In this paper, we present an intuitive grasping control for our proprietary 13-DOF humanoid soft robotic hand, BCL-13. This control approach allows all the 13 independent DOFs to be controlled continuously by intuitive human hand poses. Real-time human hand joint angles are captured by Leap Motion Controller. Then the human hand joint angle position is mapped into the robotic hand joint through our dedicated filter. Finally, the robotic hand joint actuation commands are regulated by the lower-level pressure controller. With passive compliance, the proposed intuitive grasping process can achieve excellent grasping performance and safety without strict accuracy requirements. This approach shows potential for dexterous humanoid robotic hand control for safe and intuitive interactions.
 

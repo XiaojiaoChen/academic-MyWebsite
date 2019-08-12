@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2018 IEEE International Conference on Real-time Computing and Robotics*
-publication_short: In *RCAR*
+publication_short: In *RCAR2018*
 
 abstract: To provide a high level dynamic stability objective for humanoid robots that takes into consideration forces due to joint coupling, we derive an analytical solution to the dynamic balance control of the Acrobot, a fixed-base underactuated inverted double pendulum. We will show that the proof for stability involves an analogy to the dynamic stabilization of a rigid pendulum through vertical vibrations of its base, thus providing physical and mathematical insights into controls and dynamic stability of underactuated, articulated systems like the humanoid robot.
 

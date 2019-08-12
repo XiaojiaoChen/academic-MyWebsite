@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2019 2nd IEEE International Conference on Soft Robotics*
-publication_short: In *RoboSoft*
+publication_short: In *RoboSoft2019*
 
 abstract: Soft robotic end-effectors with inherent compliance have excellent grasping adaptability and ensure safe human-robot interaction. The inherent compliance also limits structural dexterity in soft robotic systems and makes mathematical modeling difficult, therefore resulting in control challenges for existing soft robotic hands. To tackle these problems, we propose a general and intuitive control approach for various soft end-effectors with different kinematic structures. A grasping component based mapping approach is presented. This approach maps the essential human hand grasping components to robotic hand grasping components, without requiring a specific kinematic model per end-effector. A LMC-based human hand motion capturing system and multi-channel pneumatic actuation platform are accompanied to realize the intuitive control. The proposed intuitive control strategy does not require the human operator to wear any equipment or modify their natural hand behavior to match different end-effector structures. We demonstrate the efficacy of our control strategy with two, three, and four-fingered soft end-effectors. All static performances are depicted by photos in the experimental section and dynamic processes are in our accompanying video. The proposed approach provides an efficient solution to control various soft robotic hands and enhances the performance dexterity of soft robotic end-effectors.
 
