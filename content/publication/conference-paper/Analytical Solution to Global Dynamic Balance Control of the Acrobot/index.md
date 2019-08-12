@@ -33,7 +33,7 @@ featured: true
 links:
 - name: IEEE
   url: https://ieeexplore.ieee.org/document/8621827/
-url_pdf: publicationSrc/Analytical-Solution-to-Global-Dynamic-Balance-Control-of-the-Acrobot.pdf
+url_pdf: publicationSrc/Analytical Solution to Global Dynamic Balance Control of the Acrobot.pdf
 url_project: ''
 url_slides: ''
 url_video: '#'
