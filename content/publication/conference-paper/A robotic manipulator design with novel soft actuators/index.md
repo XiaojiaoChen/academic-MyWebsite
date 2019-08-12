@@ -1,13 +1,17 @@
 ---
-title: "An example conference paper"
+title: "A robotic manipulator design with novel soft actuators"
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
+- Xiaojiao Chen
+- Jing Peng
+- Jianshu Zhou
+- Yonghua Chen
+- Michael Yu Wang
+- Zheng Wang
+date: "2017-05-01T00:00:00Z"
+doi: "10.1109/ICRA.2017.7989220"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-05-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,22 +20,22 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *2017 IEEE International Conference on Robotics and Automation*
+publication_short: In *ICRA*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Soft robots are inherently compliant and adaptive, therefore they are promising candidates for interacting with humans. However robotic manipulators utilizing soft actuators are often constrained by a series of actuator performance limitations. In this work we design a novel linear soft robotic actuator with significantly improved performances over the existing products, achieving 300{\%} deformation ratio, quasi-constant output force over a wide motion range, while maintain-ing passive compliance and adaptability. Moreover, the novel actuator is less prone to friction, and could be fabricated using inject molding and 3D printing, hence having high repeata-bility at very low cost. An analytical model was developed to characterize the actuator behavior and provide a guideline for actuator design according to performance specifications. A 6 DOF soft manipulator was designed and fabricated utilizing the novel soft actuator. The manipulator arm had a serial kinematic structure with a biomimetic wrist and was driven by 12 soft actuators mounted onto the arm links. With 1.2m workspace radius and 1kg payload, the working air pressure could be as low as 1bar. Preliminary results have shown the validity of the novel soft actuator and manipulator designs, as well as the strong potential of soft robots in human-oriented applications.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Design of a 6-DOF soft manipulator driven by 12 bellows.
 
 tags:
-- Source Themes
+- ICRA
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+- name: IEEE
+  url: http://ieeexplore.ieee.org/document/7989220/
+url_pdf: publicationSrc/Aroboticmanipulatordesignwithnovelsoftactuators.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
@@ -43,7 +47,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -63,7 +67,7 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
@@ -71,5 +75,5 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
 
