@@ -29,7 +29,7 @@ summary: we present a compliant robotic gripper, Edgy-2, with 4-DOF dexterity, e
 
 tags:
 - RoboSoft
-featured: true
+featured: false
 
 links:
 - name: RoboSoft

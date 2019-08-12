@@ -30,7 +30,7 @@ summary: A general and intuitive control approach for various soft end-effectors
 
 tags:
 - RoboSoft
-featured: true
+featured: false
 
 links:
 - name: RoboSoft

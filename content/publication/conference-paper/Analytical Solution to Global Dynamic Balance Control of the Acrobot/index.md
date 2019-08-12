@@ -28,7 +28,7 @@ summary: An analytical solution to the dynamic balance control of the Acrobot is
 
 tags:
 - RCAR
-featured: true
+featured: false
 
 links:
 - name: RCAR

@@ -30,7 +30,7 @@ summary: Design and control of a 13-DOF soft robotic hand.
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 - name: Humanoids

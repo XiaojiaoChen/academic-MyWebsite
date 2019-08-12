@@ -30,7 +30,7 @@ summary: Design of a 6-DOF soft manipulator driven by 12 bellows.
 
 tags:
 - ICRA
-featured: true
+featured: false
 
 links:
 - name: ICRA
