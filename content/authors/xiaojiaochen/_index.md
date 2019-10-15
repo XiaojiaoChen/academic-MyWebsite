@@ -68,4 +68,4 @@ user_groups:
 #- Visitors
 ---
 
-I am currently a PhD student of Mechanical Engineering at the Bionics & Control Lab in the University of Hong Kong. My research interests include design, modeling and control of soft pneuamtic robotics.
+I just completed my PhD study of Mechanical Engineering at the Bionics & Control Lab in the University of Hong Kong in September 2019. My research interests include design, modeling and control of soft pneuamtic robotics.
