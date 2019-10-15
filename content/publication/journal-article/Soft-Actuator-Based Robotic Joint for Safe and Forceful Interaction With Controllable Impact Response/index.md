@@ -36,7 +36,7 @@ links:
   url: "https://ieeexplore.ieee.org/document/8408743/"
 url_pdf: publicationSrc/Soft-Actuator-Based Robotic Joint for Safe and Forceful Interaction With Controllable Impact Response.pdf
 url_project: ''
-url_video: ''
+url_video: /videos/HAPJointVideo.mp4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

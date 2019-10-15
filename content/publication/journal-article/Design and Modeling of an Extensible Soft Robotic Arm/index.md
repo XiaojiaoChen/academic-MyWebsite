@@ -37,7 +37,7 @@ links:
   url: "https://ieeexplore.ieee.org/document/8768062/"
 url_pdf: publicationSrc/Design and Modeling of an Extensible Soft Robotic Arm.pdf
 url_project: ''
-url_video: ''
+url_video: videos/softArmVideo.mp4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

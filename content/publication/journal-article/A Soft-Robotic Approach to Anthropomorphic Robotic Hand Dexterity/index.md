@@ -39,7 +39,7 @@ links:
   url: "https://ieeexplore.ieee.org/document/8786814/"
 url_pdf: publicationSrc/A Soft-Robotic Approach to Anthropomorphic Robotic Hand Dexterity.pdf
 url_project: ''
-url_video: 'publicationSrc/A Soft-Robotic Approach to Anthropomorphic Robotic Hand Dexterity.pdf'
+url_video: /videos/SoftHand.mp4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

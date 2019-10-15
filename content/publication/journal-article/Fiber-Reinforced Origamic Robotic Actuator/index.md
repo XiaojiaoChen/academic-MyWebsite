@@ -35,7 +35,7 @@ links:
   url: "http://online.liebertpub.com/doi/10.1089/soro.2016.0079 https://www.liebertpub.com/doi/10.1089/soro.2016.0079"
 url_pdf: publicationSrc/Fiber-Reinforced Origamic Robotic Actuator.pdf
 url_project: ''
-url_video: ''
+url_video: videos/SoRA_final.mp4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
