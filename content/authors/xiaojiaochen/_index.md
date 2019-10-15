@@ -35,7 +35,7 @@ education:
     year: 2015
   - course: B.S. in Mechanical Engineering
     institution: Huazhong University of Science and Technology
-    year: 20012
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
