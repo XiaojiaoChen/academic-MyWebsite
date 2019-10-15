@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Mechanical Engineering
+  - course: Ph.D. in Mechanical Engineering
     institution: the University of Hong Kong
     year: 2019
-  - course: MSc in Mechanical Engineering
+  - course: M.S. in Mechanical Engineering
     institution: the University of Hong Kong
     year: 2015
-  - course: BSc in Mechanical Engineering
+  - course: B.S. in Mechanical Engineering
     institution: Huazhong University of Science and Technology
     year: 20012
 
