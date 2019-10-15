@@ -1,14 +1,14 @@
 ---
 title: Soft Manipulator
-summary: Safe soft manipulators for human-robot interaction.
+summary: Design and control soft manipulators for human-robot interaction.
 tags:
 - Soft Manipulator
-date: "2016-04-27T00:00:00Z"
+date: "2019-05-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: 
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: 
   focal_point: Smart
 ---
